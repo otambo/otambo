@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @otambo
 - 👀 I’m interested in languages and coding
-🌱 I’m currently learning software deployment techniques
+- 🌱 I’m currently learning software deployment techniques
 - 💞️ I’m looking to collaborate on software deployment
 - 📫 How to reach me oliverkavz@gmail.com
 
